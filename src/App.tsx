@@ -118,7 +118,7 @@ function App() {
       {/* Footer - Atualizado para melhor responsividade */}
       <footer className="relative z-10 p-4 sm:p-6 text-center">
         <p className="text-gray-500 font-mono text-xs sm:text-sm md:text-base px-2 break-words">
-          Neural Interface v2.049 | Quantum Processing Unit Active
+          Neural Interface v2.049 | Caio Rodrigues
         </p>
       </footer>
     </div>
