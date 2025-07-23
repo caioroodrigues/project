@@ -107,7 +107,7 @@ function App() {
               <div className="flex items-center space-x-2 sm:space-x-3">
                 <div className="w-2 h-2 sm:w-3 sm:h-3 bg-purple-400 rounded-full animate-pulse shadow-lg shadow-purple-400/50"></div>
                 <span className="text-purple-400 font-mono text-xs sm:text-sm md:text-base truncate">
-                  DOADOR DE ORGÃOS
+                  DOADOR DE ÓRGÃOS
                 </span>
               </div>
             </div>
