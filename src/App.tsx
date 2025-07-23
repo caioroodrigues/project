@@ -97,7 +97,7 @@ function App() {
               <div className="flex items-center space-x-2 sm:space-x-3">
                 <div className="w-2 h-2 sm:w-3 sm:h-3 bg-cyan-400 rounded-full animate-pulse shadow-lg shadow-cyan-400/50"></div>
                 <span className="text-cyan-400 font-mono text-xs sm:text-sm md:text-base truncate">
-                  ALERGIA: ASPIRINA/BEZENTACIL
+                  ALERGIA: ASPIRINA
                 </span>
               </div>
             </div>
