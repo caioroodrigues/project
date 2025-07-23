@@ -1,10 +1,13 @@
+/* Imports primeiro (regra CSS) */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&display=swap');
+
+/* Depois Tailwind */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&display=swap');
-
+/* Variáveis CSS */
 :root {
   --neon-cyan: rgba(0, 255, 255, 0.9);
   --neon-pink: rgba(255, 0, 255, 0.9);
@@ -12,6 +15,7 @@
   --grid-line: rgba(0, 255, 255, 0.15);
 }
 
+/* Reset básico */
 * {
   box-sizing: border-box;
   -webkit-tap-highlight-color: transparent;
